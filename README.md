@@ -168,7 +168,7 @@ This project is proudly licensed under the **MIT License**. See the [LICENSE](LI
 
 ## 💖 Credits & Acknowledgements
 
--   Developed with passion by [Md Huzaifa](https://github.com/GuruMachanica)
+-   Developed with passion by [Mohammad Huzaifa](https://github.com/GuruMachanica)
 -   Inspired by the elegant design of Steam Big Picture and the versatility of RetroArch.
 -   Game covers and metadata generously provided by [RAWG.io](https://rawg.io/) and [IGDB](https://www.igdb.com/).
 -   Special thanks to the Python and PyQt5 communities for their invaluable resources and support.
