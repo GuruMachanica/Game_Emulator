@@ -1,0 +1,6 @@
+Reading config file C:\Desktop\Stand-Up\Summer Training\Year_2\retro_launcher_ultimate\emulators\snes9x.conf.
+Saving	config file	C:\Desktop\Stand-Up\Summer Training\Year_2\retro_launcher_ultimate\emulators\snes9x.conf
+No ROM file header found.
+Map_LoROMMap
+"Sonic" [bad checksum] LoROM, 8Mbits, ROM, NTSC, SRAM:0Kbits, ID:ASEE, CRC32:6B9C71A9
+Saving	config file	C:\Desktop\Stand-Up\Summer Training\Year_2\retro_launcher_ultimate\emulators\snes9x.conf

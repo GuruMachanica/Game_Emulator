@@ -1,0 +1,84 @@
+# -------------------------
+# Python Cache & Bytecode
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Virtual Environments
+# -------------------------
+.venv/
+env/
+venv/
+ENV/
+
+# -------------------------
+# OS-Specific Files
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# IDE & Editor Files
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# Build / Distribution
+# -------------------------
+build/
+dist/
+*.egg-info/
+*.spec
+*.log
+
+# -------------------------
+# Data & Cache Files
+# -------------------------
+resources/covers/
+data/*.cache
+*.tmp
+*.bak
+*.swp
+
+# -------------------------
+# Local User Data
+# -------------------------
+recent.json
+playtime.json
+favorites.json
+config.json
+
+# -------------------------
+# Executables & Binaries
+# -------------------------
+*.exe
+*.dll
+*.so
+*.dylib
+*.zip
+*.7z
+*.rar
+
+# -------------------------
+# Compiled Assets
+# -------------------------
+*.db
+*.sqlite3
+*.pkl
+
+# -------------------------
+# Miscellaneous
+# -------------------------
+logs/
+tmp/
+__old__/
+notes.txt
+
+# Ignore screenshots or docs cache
+docs/screenshots/

@@ -1,0 +1,84 @@
+[
+  {
+    "key": "GBA::Pokemon Emerald Version",
+    "name": "Pokémon Emerald Version",
+    "console": "GBA",
+    "file": "Pokemon_-_Emerald_Version.gba",
+    "rom_path": "roms/GBA/Pokemon_-_Emerald_Version.gba",
+    "image_url": "https://assets-prd.ignimgs.com/2022/02/08/pokemonemerald-sq-1644346782465.jpg"
+  },
+  {
+    "key": "GBA::Pokemon Fire Red Version",
+    "name": "Pokémon Fire Red Version",
+    "console": "GBA",
+    "file": "Pokemon_-_Fire_Red_Version.gba",
+    "rom_path": "roms/GBA/Pokemon_-_Fire_Red_Version.gba",
+    "image_url": "https://assets-prd.ignimgs.com/2022/01/31/pokemon-firered-button-crop-1643616703712.jpg"
+  },
+  {
+    "key": "GBA::Pokemon Sapphire Version",
+    "name": "Pokémon Sapphire Version",
+    "console": "GBA",
+    "file": "Pokemon_-_Sapphire_Version.gba",
+    "rom_path": "roms/GBA/Pokemon_-_Sapphire_Version.gba",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5KJBsUp8ajYLbcvs_Ca553CsP4WgvGpnZGw&s"
+  },
+
+  {
+    "key": "NES::Contra",
+    "name": "Contra",
+    "console": "NES",
+    "file": "Contra.nes",
+    "rom_path": "roms/NES/Contra.nes",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrPnRdMZI5u0zwq4ixjfcKErrp4dAMU8hHg&s"
+  },
+  {
+    "key": "NES::Legend of Zelda",
+    "name": "The Legend of Zelda",
+    "console": "NES",
+    "file": "Legend_of_Zelda.nes",
+    "rom_path": "roms/NES/Legend_of_Zelda.nes",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTik6ghx49WLHZwfzxG490oM3Le_GGz1FxtlQ&s"
+  },
+  {
+    "key": "NES::Mega Man 2",
+    "name": "Mega Man 2",
+    "console": "NES",
+    "file": "Mega_Man_2.nes",
+    "rom_path": "roms/NES/Mega_Man_2.nes",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-W9EeI7MKfPQNbUqIrtAwQlvPChES9MtHzA&s"
+  },
+  {
+    "key": "NES::Super Mario Bros 3",
+    "name": "Super Mario Bros. 3",
+    "console": "NES",
+    "file": "Super_Mario_Bros_3.nes",
+    "rom_path": "roms/NES/Super_Mario_Bros_3.nes",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQagaZZzindRQtPKHfiQTpgid27reDUuzlncQ&s"
+  },
+
+  {
+    "key": "SNES::Sonic the Hedgehog 4",
+    "name": "Sonic the Hedgehog 4",
+    "console": "SNES",
+    "file": "Sonic_the_Hedgehog_4.sfc",
+    "rom_path": "roms/SNES/Sonic_the_Hedgehog_4.sfc",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhoLdB22twOSX5ji9gfx9E3Z--ulLkSD_zJg&s"
+  },
+  {
+    "key": "SNES::Street Fighter II - The World Warrior",
+    "name": "Street Fighter II: The World Warrior",
+    "console": "SNES",
+    "file": "Street_Fighter_II_-_The_World_Warrior.sfc",
+    "rom_path": "roms/SNES/Street_Fighter_II_-_The_World_Warrior.sfc",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-mtumfDjGhJ6EpUESYhadSM7wfWHQMvSsQ&s"
+  },
+  {
+    "key": "SNES::Super Mario Kart",
+    "name": "Super Mario Kart",
+    "console": "SNES",
+    "file": "Super_Mario_Kart.smc",
+    "rom_path": "roms/SNES/Super_Mario_Kart.smc",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFANmoQXtsjTn5vf7M7DHICPRrDQy2asJSw&s"
+  }
+]
