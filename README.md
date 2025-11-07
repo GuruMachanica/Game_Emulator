@@ -1,4 +1,4 @@
-# 🚀 Retro Launcher Ultimate: Your Gateway to Classic Gaming!
+# 🚀 Game Emulator: Your Gateway to Classic Gaming!
 
 > **Rediscover your favorite retro games with a modern, sleek, and highly customizable launcher.** Inspired by Steam Big Picture, Retro Launcher Ultimate transforms your game collection into an immersive, easy-to-navigate experience. Built with Python and PyQt5, it intelligently organizes your ROMs, fetches stunning cover art, and seamlessly launches your preferred emulators, all wrapped in a smooth, animated interface.
 
