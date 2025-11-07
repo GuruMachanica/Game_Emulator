@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 Retro Launcher – Big Picture Edition
 
 > A modern **Steam Big Picture–style retro game launcher** built with **Python** and **PyQt5**.  
@@ -240,3 +241,6 @@ You can now initialize your repo:
 git init
 git add .
 git commit -m "Initial commit - Retro Launcher Big Picture Edition"
+=======
+# Game_Emulator
+>>>>>>> fecf2a15880598f9450ad1fb6135ea32e89b5280
