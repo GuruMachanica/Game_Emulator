@@ -19,7 +19,6 @@
 
 ## 🖼️ Visual Showcase
 
-*(To update this preview, simply replace `docs/preview.png` with your desired screenshot. For best results, capture the launcher in action!)*
 ![Launcher Preview](docs/preview.png)
 
 ---
